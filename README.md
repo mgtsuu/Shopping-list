@@ -1,5 +1,8 @@
 # Shopping List
 
+## Ссылка на рабочую версию
+https://mgtsuu.github.io/Shopping-list/
+
 ## Описание проекта
 
 Shopping List — Сайт для создания списка покупок.
