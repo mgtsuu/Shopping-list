@@ -59,3 +59,28 @@ button:hover {
     list-style: none;
 }
 
+.delete-button {
+    background-color: #e74c3c;
+}
+
+.delete-button:hover {
+    background-color: #c0392b;
+}
+
+.shopping-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.item-name {
+    flex: 1;
+    text-align: left;
+}
+
+.completed .item-name {
+    text-decoration: line-through;
+    color: gray;
+}
